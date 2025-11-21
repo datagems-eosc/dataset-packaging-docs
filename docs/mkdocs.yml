@@ -29,7 +29,6 @@ docs_dir: source
 plugins:
   - search
   - mike
-  - swagger-ui-tag
   - neoteroi.mkdocsoad:
       use_pymdownx: true
 
